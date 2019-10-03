@@ -1,1 +1,2 @@
-accueil home page
+Hello Home dot PHP
+
